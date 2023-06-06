@@ -1,0 +1,266 @@
+[
+  {
+    "id": 2,
+    "Survived": 0,
+    "Pclass": 6,
+    "Name": "Tete Martinez",
+    "sex": "female",
+    "age": 24
+  },
+  {
+    "id": 3,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Heikkinen, Miss. Laina ",
+    "sex": "female",
+    "age": 26
+  },
+  {
+    "id": 4,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Rosa Rojas",
+    "sex": "female",
+    "age": 36
+  },
+  {
+    "id": 5,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Isra Lopez",
+    "sex": "male",
+    "age": 16
+  },
+  {
+    "id": 6,
+    "Survived": 0,
+    "Pclass": 4,
+    "Name": "Isabel Leon",
+    "sex": "female",
+    "age": 27
+  },
+  {
+    "id": 7,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Isra Lopez",
+    "sex": "male",
+    "age": 16
+  },
+  {
+    "id": 8,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Palsson, Master. Gosta ",
+    "sex": "male  ",
+    "age": 2
+  },
+  {
+    "id": 9,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Johnson, Mrs. Oscar W  ",
+    "sex": "female",
+    "age": 27
+  },
+  {
+    "id": 10,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "    Nasser, Mrs. Nicholas ",
+    "sex": "female",
+    "age": 14
+  },
+  {
+    "id": 11,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "   Sandstrom, Miss. Margue",
+    "sex": "female",
+    "age": 4
+  },
+  {
+    "id": 12,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "   Bonnell, Miss. Elizabet",
+    "sex": "male  ",
+    "age": 58
+  },
+  {
+    "id": 13,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "   Saundercock, Mr. Willia",
+    "sex": "male  ",
+    "age": 20
+  },
+  {
+    "id": 14,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "   Andersson, Mr. Anders J",
+    "sex": "male 3",
+    "age": 9
+  },
+  {
+    "id": 15,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "   Vestrom, Miss. Hulda Am",
+    "sex": "female",
+    "age": 14
+  },
+  {
+    "id": 16,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "   Hewlett, Mrs. (Mary D K",
+    "sex": "female",
+    "age": 7
+  },
+  {
+    "id": 17,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "   Rice, Master. Eugene   ",
+    "sex": "male 2",
+    "age": 43
+  },
+  {
+    "id": 18,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "   Williams, Mr. Charles E",
+    "sex": "male  ",
+    "age": 34
+  },
+  {
+    "id": 19,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "   Vander Planke, Mrs. Jul",
+    "sex": "female",
+    "age": 12
+  },
+  {
+    "id": 20,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Nicola-Yarred, Miss. Jamila",
+    "sex": "female",
+    "age": 14
+  },
+  {
+    "id": 21,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "   Fynney, Mr. Joseph J   ",
+    "sex": "female",
+    "age": 45
+  },
+  {
+    "id": 22,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "   Beesley, Mr. Lawrence  ",
+    "sex": "male  ",
+    "age": 8
+  },
+  {
+    "id": 23,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "   McGowan, Miss. Anna An",
+    "sex": "male  ",
+    "age": 15
+  },
+  {
+    "id": 24,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "   Sloper, Mr. William Tho",
+    "sex": "male  ",
+    "age": 28
+  },
+  {
+    "id": 25,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Romi Vargas",
+    "sex": "female",
+    "age": 21
+  },
+  {
+    "id": 28,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Meyer, Mr. Edgar Joseph",
+    "sex": "male",
+    "age": 28
+  },
+  {
+    "id": 33,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mamee, Mr. Hanna",
+    "sex": "male",
+    "age": 12
+  },
+  {
+    "id": 35,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Ernesto Charles",
+    "sex": "male",
+    "age": 21
+  },
+  {
+    "id": 39,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Devaney, Miss. Margaret Delia",
+    "sex": "female",
+    "age": 19
+  },
+  {
+    "id": 41,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "O'Driscoll, Miss. Bridge",
+    "sex": "female",
+    "age": 25
+  },
+  {
+    "id": 43,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Kraeff, Mr. Theodor",
+    "sex": "male",
+    "age": 42
+  },
+  {
+    "id": 42,
+    "Survived": 1,
+    "Pclass": 4,
+    "Name": "Rommi Vargas",
+    "sex": "female",
+    "age": 21
+  },
+  {
+    "id": 46,
+    "Survived": 1,
+    "Pclass": 5,
+    "Name": "Angye Landeta",
+    "sex": "female",
+    "age": 21
+  },
+  {
+    "id": 48,
+    "Survived": 1,
+    "Pclass": 5,
+    "Name": "Angye Landeta",
+    "sex": "female",
+    "age": 21
+  }
+]
